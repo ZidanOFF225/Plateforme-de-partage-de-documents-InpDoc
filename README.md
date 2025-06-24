@@ -107,4 +107,4 @@ Plateforme web permettant aux étudiants de l'INPHB de partager et d'accéder à
 - KOUADIO Abraham
 
 ## Licence
-Tous droits réservés © 2024 INPHB 
+Tous droits réservés © 2024 Kouadio Abraham
